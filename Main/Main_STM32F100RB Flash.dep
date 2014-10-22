@@ -1,0 +1,17 @@
+Dependencies for Project 'Main', Target 'STM32F100RB Flash': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_ld_vl.s)(0x508784E8)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list ".\Flash\startup_stm32f10x_ld_vl.lst" --xref -o ".\Flash\startup_stm32f10x_ld_vl.o" --depend ".\Flash\startup_stm32f10x_ld_vl.d")
+F (.\system_stm32f10x.c)(0x508784E8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_LD_VL -o ".\Flash\system_stm32f10x.o" --omf_browse ".\Flash\system_stm32f10x.crf" --depend ".\Flash\system_stm32f10x.d")
+I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x52B70716)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x508785AE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F98B80)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x508785AE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x508785AE)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x508775D8)
+F (.\Main.c)(0x508784E8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_LD_VL -o ".\Flash\main.o" --omf_browse ".\Flash\main.crf" --depend ".\Flash\main.d")
+I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x52B70716)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x508785AE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F98B80)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x508785AE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x508785AE)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x508775D8)
+F (.\Abstract.txt)(0x00000000)()

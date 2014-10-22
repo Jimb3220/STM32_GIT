@@ -1,0 +1,5 @@
+Dependencies for Project 'Main', Target 'STM32F100RB RAM': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_ld_vl.s)(0x508784E8)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list ".\RAM\startup_stm32f10x_ld_vl.lst" --xref -o ".\RAM\startup_stm32f10x_ld_vl.o" --depend ".\RAM\startup_stm32f10x_ld_vl.d")
+F (.\system_stm32f10x.c)(0x508784E8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_LD_VL -DVECT_TAB_SRAM -o ".\RAM\system_stm32f10x.o" --omf_browse ".\RAM\system_stm32f10x.crf" --depend ".\RAM\system_stm32f10x.d")
+F (.\Main.c)(0x508784E8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_LD_VL -DVECT_TAB_SRAM -o ".\RAM\main.o" --omf_browse ".\RAM\main.crf" --depend ".\RAM\main.d")
+F (.\Abstract.txt)(0x00000000)()
